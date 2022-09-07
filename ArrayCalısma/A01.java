@@ -8,5 +8,6 @@ public class A01 {
         a[5]=32;
         System.out.println(Arrays.toString(a));
         System.out.println(Arrays.toString(a));
+        System.out.println(Arrays.toString(a));
     }
 }
