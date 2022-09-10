@@ -9,5 +9,6 @@ public class A01 {
         System.out.println(Arrays.toString(a));
         System.out.println(Arrays.toString(a));
         System.out.println(Arrays.toString(a));
+        System.out.println(Arrays.toString(a));
     }
 }
